@@ -1,3 +1,6 @@
+This is my fork of the Tinyply library. I wanted to add CMake Support so it could be downloaded and installed using CMake's FindPackages.
+The default version does not work for my project.
+
 # tinyply 2.3
 
 [![Release is 2.3.3](http://img.shields.io/badge/release-2.3.3-blue.svg?style=flat)](https://raw.githubusercontent.com/ddiakopoulos/tinyply/master/source/tinyply.h)
